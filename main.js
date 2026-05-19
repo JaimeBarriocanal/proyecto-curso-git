@@ -9,4 +9,5 @@ function login() {
 
 function camera() {
     // funcion para la cámara
+    console.log("camera");
 }
