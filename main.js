@@ -6,3 +6,7 @@ function login() {
     // funcion para el login
     console.log("login");
 }
+
+function camera() {
+    // funcion para la cámara
+}
